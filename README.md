@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+# I'm Éclats
 
-<!--
-**ecllats/ecllats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student interested in technology and cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 I like learning programming and building my skills
+* 🔐 Currently learning cybersecurity
+* 🚀 Always exploring new things in tech
+
+## Tech Stack
+
+* C++
+* Python
+* HTML / CSS

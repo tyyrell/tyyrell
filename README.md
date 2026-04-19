@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 # I'm Tyrell
 
-🎓 Student interested in technology and cybersecurity.
+🎓 Student interested in technology and learning cybersecurity.
 
 ## About Me
 
@@ -10,7 +10,7 @@
 * 🚀 Always exploring new things in tech
 
 ## Tech Stack
-
+* full stack web-dev
 * C++
 * Python
-* HTML / CSS
+* php
